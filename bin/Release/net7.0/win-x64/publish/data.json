@@ -1,0 +1,23 @@
+[
+  {
+    "term": "test",
+    "definition": "hello",
+    "tags": [
+      "samble"
+    ]
+  },
+  {
+    "term": "100",
+    "definition": "100",
+    "tags": [
+      "100"
+    ]
+  },
+  {
+    "term": "111",
+    "definition": "111",
+    "tags": [
+      "111"
+    ]
+  }
+]

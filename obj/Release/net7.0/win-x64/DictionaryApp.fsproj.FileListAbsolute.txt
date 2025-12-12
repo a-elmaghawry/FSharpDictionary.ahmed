@@ -1,0 +1,1086 @@
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.fsproj.AssemblyReference.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rpswa.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.AssemblyInfo.fs
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.fsproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\wwwroot\app.js
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\wwwroot\index.html
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\wwwroot\style.css
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.staticwebassets.runtime.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.staticwebassets.endpoints.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.exe
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.deps.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.runtimeconfig.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.pdb
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\FSharp.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\cs\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\de\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\es\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\fr\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\it\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\ja\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\ko\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\pl\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\pt-BR\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\ru\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\tr\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\zh-Hans\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\zh-Hant\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.CSharp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Win32.Registry.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.AppContext.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Buffers.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.Concurrent.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.Immutable.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.NonGeneric.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.Specialized.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.Annotations.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Configuration.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Console.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Data.Common.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Data.DataSetExtensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Data.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Contracts.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Debug.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Process.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Tools.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Tracing.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Drawing.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Drawing.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Dynamic.Runtime.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Formats.Asn1.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Formats.Tar.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Globalization.Calendars.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Globalization.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Globalization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.Brotli.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.IsolatedStorage.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Pipes.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.Expressions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.Parallel.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.Queryable.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Memory.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Http.Json.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Http.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.HttpListener.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Mail.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.NameResolution.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.NetworkInformation.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Ping.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Quic.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Requests.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Security.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.ServicePoint.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Sockets.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebClient.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebProxy.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebSockets.Client.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebSockets.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Numerics.Vectors.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Numerics.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ObjectModel.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.CoreLib.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.DataContractSerialization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.Uri.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.Xml.Linq.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.Xml.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Emit.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Metadata.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Resources.Reader.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Resources.ResourceManager.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Resources.Writer.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Handles.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Intrinsics.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Loader.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Numerics.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.AccessControl.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Claims.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Principal.Windows.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Principal.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.SecureString.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ServiceModel.Web.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ServiceProcess.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encoding.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encodings.Web.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Json.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.RegularExpressions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Channels.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Overlapped.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Thread.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.ThreadPool.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Timer.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Transactions.Local.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Transactions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ValueTuple.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Web.HttpUtility.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Web.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Windows.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.Linq.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.ReaderWriter.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.Serialization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XDocument.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XPath.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XmlDocument.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XmlSerializer.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\WindowsBase.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscorlib.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\netstandard.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Features.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Http.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.JSInterop.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.EventLog.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Pipelines.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.RateLimiting.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.Native.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\clretwrc.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\clrgc.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\clrjit.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\coreclr.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\createdump.exe
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\hostfxr.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\hostpolicy.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscordaccore.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscordaccore_amd64_amd64_7.0.2024.26716.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscordbi.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscorrc.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\msquic.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\aspnetcorev2_inprocess.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rjimswa.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rjsmrazor.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rjsmcshtml.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\scopedcss\bundle\DictionaryApp.styles.css
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.build.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.build.json.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.development.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.build.endpoints.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\swae.build.ex.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\Dictiona.CFEE3568.Up2Date
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\refint\DictionaryApp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.pdb
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.genruntimeconfig.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\ref\DictionaryApp.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\wwwroot\app.js
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\wwwroot\index.html
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\wwwroot\style.css
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.staticwebassets.endpoints.json
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.staticwebassets.runtime.json
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.exe
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.deps.json
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.runtimeconfig.json
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\DictionaryApp.pdb
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\FSharp.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\cs\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\de\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\es\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\fr\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\it\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\ja\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\ko\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\pl\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\pt-BR\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\ru\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\tr\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\zh-Hans\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\zh-Hant\FSharp.Core.resources.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.CSharp.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Win32.Registry.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.AppContext.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Buffers.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.Concurrent.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.Immutable.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.NonGeneric.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.Specialized.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Collections.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.Annotations.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ComponentModel.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Configuration.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Console.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Data.Common.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Data.DataSetExtensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Data.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Contracts.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Debug.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Process.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Tools.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.Tracing.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Drawing.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Drawing.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Dynamic.Runtime.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Formats.Asn1.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Formats.Tar.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Globalization.Calendars.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Globalization.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Globalization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.Brotli.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.FileSystem.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.IsolatedStorage.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Pipes.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.Expressions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.Parallel.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.Queryable.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Linq.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Memory.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Http.Json.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Http.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.HttpListener.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Mail.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.NameResolution.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.NetworkInformation.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Ping.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Quic.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Requests.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Security.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.ServicePoint.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.Sockets.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebClient.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebProxy.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebSockets.Client.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.WebSockets.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Net.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Numerics.Vectors.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Numerics.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ObjectModel.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.CoreLib.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.DataContractSerialization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.Uri.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.Xml.Linq.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Private.Xml.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Emit.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Metadata.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Reflection.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Resources.Reader.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Resources.ResourceManager.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Resources.Writer.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Handles.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Intrinsics.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Loader.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Numerics.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.Serialization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Runtime.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.AccessControl.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Claims.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Principal.Windows.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Principal.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.SecureString.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ServiceModel.Web.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ServiceProcess.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encoding.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Encodings.Web.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.Json.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Text.RegularExpressions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Channels.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Overlapped.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Tasks.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Thread.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.ThreadPool.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.Timer.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Transactions.Local.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Transactions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.ValueTuple.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Web.HttpUtility.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Web.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Windows.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.Linq.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.ReaderWriter.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.Serialization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XDocument.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XPath.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XmlDocument.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.XmlSerializer.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Xml.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\WindowsBase.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscorlib.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\netstandard.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cors.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Identity.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Localization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Razor.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Routing.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Session.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Features.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Http.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Localization.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.JSInterop.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.Net.Http.Headers.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Diagnostics.EventLog.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Pipelines.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Security.Cryptography.Xml.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.Threading.RateLimiting.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\System.IO.Compression.Native.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\clretwrc.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\clrgc.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\clrjit.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\coreclr.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\createdump.exe
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\hostfxr.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\hostpolicy.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscordaccore.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscordaccore_amd64_amd64_7.0.2024.26716.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscordbi.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\mscorrc.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\msquic.dll
+C:\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\aspnetcorev2_inprocess.dll
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.fsproj.AssemblyReference.cache
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rpswa.dswa.cache.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.AssemblyInfoInputs.cache
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.AssemblyInfo.fs
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.fsproj.CoreCompileInputs.cache
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rjimswa.dswa.cache.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rjsmrazor.dswa.cache.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\rjsmcshtml.dswa.cache.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\scopedcss\bundle\DictionaryApp.styles.css
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.build.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.build.json.cache
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.development.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\staticwebassets.build.endpoints.json
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\swae.build.ex.cache
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\Dictiona.CFEE3568.Up2Date
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.dll
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\refint\DictionaryApp.dll
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.pdb
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\DictionaryApp.genruntimeconfig.cache
+C:\FSharpDictionary_with_tests\obj\Release\net7.0\win-x64\ref\DictionaryApp.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\wwwroot\app.js
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\wwwroot\index.html
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\wwwroot\style.css
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.staticwebassets.endpoints.json
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.exe
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.staticwebassets.runtime.json
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.deps.json
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.runtimeconfig.json
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\DictionaryApp.pdb
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\FSharp.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\cs\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\de\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\es\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\fr\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\it\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\ja\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\ko\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\pl\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\pt-BR\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\ru\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\tr\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\zh-Hans\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\zh-Hant\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.CSharp.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Win32.Registry.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.AppContext.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Buffers.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Collections.Concurrent.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Collections.Immutable.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Collections.NonGeneric.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Collections.Specialized.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Collections.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ComponentModel.Annotations.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ComponentModel.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ComponentModel.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Configuration.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Console.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Data.Common.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Data.DataSetExtensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Data.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.Contracts.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.Debug.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.Process.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.Tools.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.Tracing.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Drawing.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Drawing.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Dynamic.Runtime.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Formats.Asn1.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Formats.Tar.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Globalization.Calendars.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Globalization.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Globalization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Compression.Brotli.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Compression.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.FileSystem.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.IsolatedStorage.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Pipes.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Linq.Expressions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Linq.Parallel.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Linq.Queryable.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Linq.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Memory.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Http.Json.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Http.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.HttpListener.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Mail.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.NameResolution.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.NetworkInformation.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Ping.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Quic.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Requests.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Security.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.ServicePoint.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.Sockets.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.WebClient.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.WebProxy.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.WebSockets.Client.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.WebSockets.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Net.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Numerics.Vectors.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Numerics.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ObjectModel.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Private.CoreLib.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Private.DataContractSerialization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Private.Uri.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Private.Xml.Linq.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Private.Xml.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.Emit.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.Metadata.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Reflection.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Resources.Reader.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Resources.ResourceManager.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Resources.Writer.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Handles.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Intrinsics.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Loader.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Numerics.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.Serialization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Runtime.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.AccessControl.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Claims.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Principal.Windows.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Principal.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.SecureString.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ServiceModel.Web.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ServiceProcess.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Text.Encoding.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Text.Encodings.Web.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Text.Json.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Text.RegularExpressions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Channels.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Overlapped.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Tasks.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Thread.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.ThreadPool.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.Timer.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Transactions.Local.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Transactions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.ValueTuple.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Web.HttpUtility.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Web.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Windows.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.Linq.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.ReaderWriter.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.Serialization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.XDocument.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.XPath.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.XmlDocument.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.XmlSerializer.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Xml.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\WindowsBase.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\mscorlib.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\netstandard.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Components.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cors.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Http.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Identity.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Localization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Razor.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Routing.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Session.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Features.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Http.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Localization.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.JSInterop.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.Net.Http.Headers.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Diagnostics.EventLog.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Pipelines.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Security.Cryptography.Xml.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.Threading.RateLimiting.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\System.IO.Compression.Native.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\clretwrc.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\clrgc.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\clrjit.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\coreclr.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\createdump.exe
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\hostfxr.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\hostpolicy.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\mscordaccore.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\mscordaccore_amd64_amd64_7.0.2024.26716.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\mscordbi.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\mscorrc.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\msquic.dll
+C:\FSharpDictionary\bin\Release\net7.0\win-x64\aspnetcorev2_inprocess.dll
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.fsproj.AssemblyReference.cache
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\rpswa.dswa.cache.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.AssemblyInfoInputs.cache
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.AssemblyInfo.fs
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.fsproj.CoreCompileInputs.cache
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\rjimswa.dswa.cache.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\rjsmrazor.dswa.cache.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\rjsmcshtml.dswa.cache.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\scopedcss\bundle\DictionaryApp.styles.css
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\staticwebassets.build.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\staticwebassets.build.json.cache
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\staticwebassets.development.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\staticwebassets.build.endpoints.json
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\swae.build.ex.cache
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\Dictiona.CFEE3568.Up2Date
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.dll
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\refint\DictionaryApp.dll
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.pdb
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\DictionaryApp.genruntimeconfig.cache
+C:\FSharpDictionary\obj\Release\net7.0\win-x64\ref\DictionaryApp.dll

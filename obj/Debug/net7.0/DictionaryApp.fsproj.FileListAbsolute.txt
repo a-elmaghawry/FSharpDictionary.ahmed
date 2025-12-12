@@ -1,0 +1,88 @@
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\wwwroot\app.js
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\wwwroot\index.html
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\wwwroot\style.css
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.staticwebassets.runtime.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.staticwebassets.endpoints.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.exe
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.deps.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.runtimeconfig.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\DictionaryApp.pdb
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\FSharp.Core.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.fsproj.AssemblyReference.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.AssemblyInfo.fs
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.fsproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\scopedcss\bundle\DictionaryApp.styles.css
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\staticwebassets.build.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\staticwebassets.development.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\swae.build.ex.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\Dictiona.CFEE3568.Up2Date
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\refint\DictionaryApp.dll
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.pdb
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\DictionaryApp.genruntimeconfig.cache
+D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\obj\Debug\net7.0\ref\DictionaryApp.dll
+C:\FSharpDictionary\bin\Debug\net7.0\wwwroot\app.js
+C:\FSharpDictionary\bin\Debug\net7.0\wwwroot\index.html
+C:\FSharpDictionary\bin\Debug\net7.0\wwwroot\style.css
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.staticwebassets.endpoints.json
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.staticwebassets.runtime.json
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.exe
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.deps.json
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.runtimeconfig.json
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.dll
+C:\FSharpDictionary\bin\Debug\net7.0\DictionaryApp.pdb
+C:\FSharpDictionary\bin\Debug\net7.0\FSharp.Core.dll
+C:\FSharpDictionary\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\FSharpDictionary\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.fsproj.AssemblyReference.cache
+C:\FSharpDictionary\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.AssemblyInfoInputs.cache
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.AssemblyInfo.fs
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.fsproj.CoreCompileInputs.cache
+C:\FSharpDictionary\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\FSharpDictionary\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\FSharpDictionary\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\FSharpDictionary\obj\Debug\net7.0\scopedcss\bundle\DictionaryApp.styles.css
+C:\FSharpDictionary\obj\Debug\net7.0\staticwebassets.build.json
+C:\FSharpDictionary\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\FSharpDictionary\obj\Debug\net7.0\staticwebassets.development.json
+C:\FSharpDictionary\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\FSharpDictionary\obj\Debug\net7.0\swae.build.ex.cache
+C:\FSharpDictionary\obj\Debug\net7.0\Dictiona.CFEE3568.Up2Date
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.dll
+C:\FSharpDictionary\obj\Debug\net7.0\refint\DictionaryApp.dll
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.pdb
+C:\FSharpDictionary\obj\Debug\net7.0\DictionaryApp.genruntimeconfig.cache
+C:\FSharpDictionary\obj\Debug\net7.0\ref\DictionaryApp.dll
