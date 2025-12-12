@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("DictionaryApp")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Release")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+824c7a8c74df29c6893393e79a5643c20665a7c8")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("DictionaryApp")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("DictionaryApp")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

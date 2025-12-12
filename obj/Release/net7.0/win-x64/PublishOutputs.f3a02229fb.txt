@@ -1,2 +1,0 @@
-D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\publish\DictionaryApp.pdb
-D:\OneDrive\Desktop\New folder (2)\FSharpDictionary_with_tests\bin\Release\net7.0\win-x64\publish\DictionaryApp.exe
